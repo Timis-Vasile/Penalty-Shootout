@@ -13,14 +13,13 @@ Tecnologie usate
     - Python 3.x
     - Pygame per grafica, animazioni e gestione eventi
 
-Come giocare
+    # Come giocare
+    Avvia il gioco con Python.
 
-Avvia il gioco con Python.
+    Usa il mouse o la tastiera per selezionare il punto di tiro.
 
-Usa il mouse o la tastiera per selezionare il punto di tiro.
+    Cerca di segnare evitando il portiere che tenta di parare.
 
-Cerca di segnare evitando il portiere che tenta di parare.
+    Guadagna punti e gestisci il tuo saldo virtuale.
 
-Guadagna punti e gestisci il tuo saldo virtuale.
-
-Divertiti e migliora la tua precisione!
+    Divertiti e migliora la tua precisione!
